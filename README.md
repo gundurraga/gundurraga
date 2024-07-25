@@ -1,7 +1,6 @@
-## Hi there 👋
+ # replace username with your own or change theme
+![GitHub Activity Graph](https://cdn.hackernoon.com/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
 
-[![gundurraga's GitHub | Stats](https://stats.quira.sh/gundurraga/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=gundurraga)
-[![gundurraga's GitHub | Languages Over Time](https://stats.quira.sh/gundurraga/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=gundurraga)
 <!--
 **gundurraga/gundurraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
