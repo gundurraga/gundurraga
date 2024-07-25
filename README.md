@@ -1,5 +1,10 @@
- # replace username with your own or change theme
-![GitHub Activity Graph](https://cdn.hackernoon.com/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
+
+## Stats📈
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gundurraga&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="gundurraga" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=gundurraga&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="gundurraga" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gundurraga&theme=highcontrast&hide_border=true" alt="gundurraga" />
+</p>
 
 <!--
 **gundurraga/gundurraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
