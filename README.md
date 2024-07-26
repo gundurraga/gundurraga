@@ -1,9 +1,9 @@
 
 ## Stats📈
 <p align="center">
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gundurraga&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="gundurraga" /> 
-<img width="80%" src="https://github-readme-stats.vercel.app/api?username=gundurraga&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="gundurraga" />
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=gundurraga&theme=highcontrast&hide_border=true" alt="gundurraga" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gundurraga&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="gundurraga" /> 
+<img width="55%" src="https://github-readme-stats.vercel.app/api?username=gundurraga&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="gundurraga" />
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=gundurraga&theme=highcontrast&hide_border=true" alt="gundurraga" />
 </p>
 
 <!--
